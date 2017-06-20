@@ -1,0 +1,6 @@
+C:\Users\wheeler\Desktop\School\C#\BinarySearchTree\BinarySearchTree\bin\Debug\BinarySearchTree.exe.config
+C:\Users\wheeler\Desktop\School\C#\BinarySearchTree\BinarySearchTree\obj\Debug\BinarySearchTree.csprojResolveAssemblyReference.cache
+C:\Users\wheeler\Desktop\School\C#\BinarySearchTree\BinarySearchTree\bin\Debug\BinarySearchTree.exe
+C:\Users\wheeler\Desktop\School\C#\BinarySearchTree\BinarySearchTree\bin\Debug\BinarySearchTree.pdb
+C:\Users\wheeler\Desktop\School\C#\BinarySearchTree\BinarySearchTree\obj\Debug\BinarySearchTree.exe
+C:\Users\wheeler\Desktop\School\C#\BinarySearchTree\BinarySearchTree\obj\Debug\BinarySearchTree.pdb
